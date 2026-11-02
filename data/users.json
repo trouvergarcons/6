@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "fullname": "John Doe",
+        "email": "john.doe@example.com",
+        "department": "IT",
+        "phone": "1234567890",
+        "password": "$2y$10$3C1zBC0jbX4leYiENf7Jk.aEciaRtsa6EixRxv4JQaFKLpaluoGjm",
+        "registration_date": "2026-09-01 08:35:08",
+        "last_updated": "2026-09-01 08:35:08",
+        "is_active": 1
+    },
+    {
+        "id": 2,
+        "fullname": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "department": "HR",
+        "phone": "0987654321",
+        "password": "$2y$10$8CtwYT\/irCj3ubNWW9bucOVgbWQEuuz5zmtXsRSaIXbVP95SlOQnq",
+        "registration_date": "2026-09-01 08:35:08",
+        "last_updated": "2026-09-01 08:35:08",
+        "is_active": 1
+    }
+]
